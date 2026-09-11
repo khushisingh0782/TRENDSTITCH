@@ -1,0 +1,6 @@
+{
+  "name": "TrendStitch India Edition",
+  "description": "Architectural editorial trend radar and price arbitrage engine for modern Indian couture, handlooms, and Indo-Western street style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
